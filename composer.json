@@ -1,0 +1,21 @@
+{
+
+  "autoload": {
+    "psr-4": {"App\\": "src/"}
+  },
+
+  "name": "vendor_name/diplom",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Admin",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "endroid/qr-code": "^4.8"
+  }
+
+}
